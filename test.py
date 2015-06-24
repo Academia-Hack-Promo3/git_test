@@ -26,8 +26,13 @@ print "Hola Mundo"
 numero = 1
 prueba = 1
 prueba2 = 2
+<<<<<<< HEAD
+
+print "SOY LEONARD"
+=======
 prueba3 = 3
 
+>>>>>>> 75416e89c937e7c780ec35851b6a18593f4894dd
 print "Chao mundo BUAHAHA"
 
 print "holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   "
