@@ -1,1 +1,1 @@
-print "Chao mundo"
+print "I LOST THE GAME"
