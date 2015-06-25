@@ -5,3 +5,4 @@ Jorge: Hacer en que?
 alejandro: osea que hicieron  hoy ? 
 Jorge: Hablamos sobre algoritmos, tipos de algoritmos, tambien hicimos practicas de pseudocodigo. 
 Y luego una introduccion a ruby, tipos de datos, precedencia en operaciones aritmeticas.
+alejandro: gracias, bro! ya investigo asi mañana no llego tan perdido. thx.
