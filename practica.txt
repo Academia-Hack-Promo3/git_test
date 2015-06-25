@@ -8,3 +8,4 @@ Y luego una introduccion a ruby, tipos de datos, precedencia en operaciones arit
 alejandro: gracias, bro! ya investigo asi mañana no llego tan perdido. thx.
 Jorge: En Ruby solo hicimos pruebas en la terminal usando un comando de ruby que nos permite hacer pruebas rapidas de codigo
  el comando es "irb" luego de abrirlo pruebas escribiendo "2*2" y debe darte un resultado.
+ alejandro: todo desde la maquina virtual supongo ? y mandaron algun reto o algo ?.
