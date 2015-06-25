@@ -3,3 +3,5 @@ Jorge: Como van con la practica? :D jajajaja
 alejandro : Holis, no pude asistir me explican que hay que hacer??? jajaja
 Jorge: Hacer en que?
 alejandro: osea que hicieron  hoy ? 
+Jorge: Hablamos sobre algoritmos, tipos de algoritmos, tambien hicimos practicas de pseudocodigo. 
+Y luego una introduccion a ruby, tipos de datos, precedencia en operaciones aritmeticas.
